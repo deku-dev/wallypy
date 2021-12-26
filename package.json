@@ -1,0 +1,19 @@
+{
+  "name": "wallypy",
+  "version": "1.0.0",
+  "description": "Web-Site wallpaper for desktop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deku-dev/wallypy.git"
+  },
+  "author": "Deku-dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deku-dev/wallypy/issues"
+  },
+  "homepage": "https://github.com/deku-dev/wallypy#readme"
+}
